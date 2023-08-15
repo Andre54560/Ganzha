@@ -1,0 +1,47 @@
+.search_content{
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.myInput{
+    padding: 15px;
+    height: 11px;
+    width: 450px;
+    border: none;
+    border-radius: 50px 0 0 50px;
+}
+.myButton{
+    height: 40px;
+    width: 60px;
+    border: none;
+    border-radius: 0 50px 50px 0;
+    background: #1575CF;
+    color:aliceblue
+}
+.myButton:hover{
+    cursor: pointer;
+}
+@media (max-width:800px) {
+    .myInput{
+        margin: 0;
+        padding: 15px;
+        height: 10px;
+        width: 250px;
+        border: none;
+        border-radius: 50px 0 0 50px;
+    }
+    .myButton{
+        margin-right: 30px;
+        height: 40px;
+        width: 60px;
+        border: none;
+        border-radius: 0 50px 50px 0;
+        background: #1575CF;
+        color:aliceblue
+        
+    }
+}

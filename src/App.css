@@ -1,0 +1,21 @@
+*{
+  margin: 0;
+  padding: 0;
+
+}
+.App{
+  display: block;
+  background: rgb(154,192,235);
+  background: linear-gradient(90deg, rgba(154,192,235,1) 15%, rgba(217,233,251,1) 50%, rgba(154,192,235,1) 85%);
+}
+.content{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 116px;
+}
+@media (max-width:1200px) {
+  .content{
+    display: block;
+    padding-bottom: 90px;
+  }
+}
