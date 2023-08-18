@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ganzha/static/css/main.63ef089e.css",
+    "main.js": "/Ganzha/static/js/main.c0b0ae7d.js",
+    "static/js/787.d9312eb8.chunk.js": "/Ganzha/static/js/787.d9312eb8.chunk.js",
+    "index.html": "/Ganzha/index.html",
+    "main.63ef089e.css.map": "/Ganzha/static/css/main.63ef089e.css.map",
+    "main.c0b0ae7d.js.map": "/Ganzha/static/js/main.c0b0ae7d.js.map",
+    "787.d9312eb8.chunk.js.map": "/Ganzha/static/js/787.d9312eb8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ef089e.css",
+    "static/js/main.c0b0ae7d.js"
+  ]
+}
